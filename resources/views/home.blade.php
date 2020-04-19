@@ -62,6 +62,7 @@
             <div class="small-box bg-yellow">
               <div class="inner">
               <h3>{{$pedidos->count()}}</h3>
+
                 <p>Pedidos pendientes</p>
               </div>
               <div class="icon">
